@@ -1,9 +1,9 @@
 # AI-Chatbot-Voice-Agent-using-Kore.ai
-This project is built to develop an *AI Chatbot and AI Voice Assistant* for Pronix Inc organisation using the Kore.ai platform.
+I developed an *AI Chatbot & AI Voice Assistant* for Pronix Inc organisation using the Kore.ai platform.
 
 # 🤖 Pronix Virtual Assistant (AI Chatbot & Voice Agent using Kore.ai)
 
-This project is to develop an **AI Chatbot and AI Voice Assistant** for **Pronix Inc.** organisation using the **Kore.ai platform**.
+The main aim of the project is to develop an **AI Chatbot and AI Voice Assistant** for **Pronix Inc.** organisation using the **Kore.ai platform**.
 
 ## Project Overview
 
@@ -11,7 +11,7 @@ This project is to develop an **AI Chatbot and AI Voice Assistant** for **Pronix
 Automate customer support by providing accurate, real-time responses to user queries through chat and voice interfaces — deployed using Kore.ai's enterprise AI platform.
 
 *Tech Stack*:
-- Kore.ai (Bot Builder Studio)
+- Kore.ai (Bot Builder Studio)--> ( https://platform.kore.ai/auth/login ) & ( https://academy.kore.ai/ )
 - NLP / NLU (Kore’s native language engine)
 - Knowledge AI (FAQs + Web crawling from [pronixinc.com](https://www.pronixinc.com))
 - REST API Integration (Dialog Tasks)
