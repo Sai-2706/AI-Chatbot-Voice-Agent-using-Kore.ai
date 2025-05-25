@@ -1,5 +1,5 @@
 # AI-Chatbot-Voice-Agent-using-Kore.ai
-I developed an *AI Chatbot & AI Voice Assistant* for Pronix Inc organisation using the Kore.ai platform.
+Developed an *AI Chatbot & AI Voice Assistant* for Pronix Inc organisation using the Kore.ai platform.
 
 # 🤖 Pronix Virtual Assistant (AI Chatbot & Voice Agent using Kore.ai)
 
